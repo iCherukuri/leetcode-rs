@@ -9,12 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf2469d5-1f96-4770-9740-eb7ef51132eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/_961.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/_929.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/_929.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easy/mod.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/mod.rs" afterDir="false" />
-    </list>
+    <list default="true" id="cf2469d5-1f96-4770-9740-eb7ef51132eb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,13 +66,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="rs" value="710" />
+          <entry key="rs" value="728" />
           <entry key="toml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Rust" value="710" />
+          <entry key="Rust" value="728" />
           <entry key="TOML file" value="3" />
         </counts>
       </usages-collector>
@@ -94,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easy/_929.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+            <state relative-caret-position="111">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -121,11 +116,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/easy/_961.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
+            <state relative-caret-position="135">
+              <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -180,8 +175,8 @@
         <option value="$PROJECT_DIR$/src/lib.rs" />
         <option value="$PROJECT_DIR$/src/easy/_771.rs" />
         <option value="$PROJECT_DIR$/src/easy/mod.rs" />
-        <option value="$PROJECT_DIR$/src/easy/_961.rs" />
         <option value="$PROJECT_DIR$/src/easy/_929.rs" />
+        <option value="$PROJECT_DIR$/src/easy/_961.rs" />
       </list>
     </option>
   </component>
@@ -317,12 +312,12 @@
       <option name="presentableId" value="Default" />
       <updated>1545699646391</updated>
       <workItem from="1545699647940" duration="6532000" />
-      <workItem from="1545709017270" duration="4386000" />
+      <workItem from="1545709017270" duration="4690000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10918000" />
+    <option name="totallyTimeSpent" value="11222000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="0" width="1280" height="800" extended-state="0" />
@@ -446,17 +441,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/_961.rs">
+    <entry file="file://$PROJECT_DIR$/src/easy/_929.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" selection-start-column="2" selection-end-line="17" selection-end-column="3" />
+        <state relative-caret-position="111">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/_929.rs">
+    <entry file="file://$PROJECT_DIR$/src/easy/_961.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        <state relative-caret-position="135">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
