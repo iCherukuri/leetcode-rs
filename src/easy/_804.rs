@@ -58,7 +58,8 @@ impl Solution1 {
     }
 }
 
-// better solution
+// better solution with almost half runtime than above
+
 impl Solution2 {
     pub fn unique_morse_representations(words: Vec<String>) -> i32 {
         // a - z
